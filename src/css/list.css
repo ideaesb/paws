@@ -1,0 +1,131 @@
+@import 'header.css';
+body 
+{
+  margin: 0px;
+  background-image: url('../images/bg.png');
+  background-repeat: repeat-x;
+  background-color: #25B0E7;
+}
+#container 
+{
+	width: 1400px;
+	min-height: 38em;
+	border-left: 1px solid #cccccc;
+	border-right: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+	background-color: #FFFFFF;
+	height: 740px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 2px;
+	padding-left: 0px;
+    font-family: sans-serif;
+}
+/* Cross-browser gradient by Robert Nyman | CSS gradients for all web browsers... */
+.gradient 
+{
+color: #fff; 
+/* For WebKit (Safari, Google Chrome etc) */ 
+background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#ccc)); 
+/* For Mozilla/Gecko (Firefox etc) */ 
+background: -moz-linear-gradient(top, #fff, #ccc); 
+/* For Internet Explorer 5.5 - 7 */ 
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#CCCCCCCC); 
+/* For Internet Explorer 8 */ 
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFFFFF, endColorstr=#CCCCCCCC)"; 
+} 
+table.projects
+{
+	margin: 1em;
+	width: auto;
+	border-collapse: collapse;
+	font-family: sans-serif;
+}
+table.projects thead
+{
+    background: #fc9;
+}
+table.projects tr:hover, tr:active, tr:focus
+{
+	background-color:#0FF;
+}
+table.projects td, th 
+{ 
+   padding: .3em;
+   border: 1px #ccc solid;
+}
+td.contactCol
+{
+  white-space:nowrap;
+  width: 100px;
+}
+td.agencyCol
+{
+  white-space:nowrap;
+  width: 10px;
+}
+td.regionCol
+{
+  width: 100px;
+}
+td.focusCol
+{
+  width: 150px;
+}
+td.capabilityCol
+{
+  font-size: 9px;
+  width: 300px;
+}
+td.descriptionCol
+{
+  font-size: 9px;
+  width: 300px;
+}
+td.nameCol
+{
+  width: 150px;
+}
+table.msgbox 
+{
+	border-width: 1px;
+    border-style: dashed;
+    border-color: red;
+	border-spacing: 2px;
+	border-collapse: separate;
+	background-color: white;
+}
+table.msgbox th 
+{
+	border: 1px inset black;
+	padding: 1px;
+	background-color: white;
+	-moz-border-radius: 0px;
+}
+table.msgbox td 
+{
+	border: 5px inset gray;
+	padding: 5px;
+	background-color: #FAF0E6;
+	-moz-border-radius: 12px;
+}
+/* Chamfer Borders by Stu Nicholls | CSSplay */
+.chamfer {background: transparent; width:40%; margin:0 auto;}
+.chamfer h1, .chamfer p {margin:0 10px;}
+.chamfer h1 {font-size:2em; color:#000; letter-spacing:1px;}
+.chamfer p {padding-bottom:0.5em;}
+ 
+.chamfer .top, .chamfer .bottom {display:block; background:transparent; font-size:1px;}
+.chamfer .b1, .chamfer .b2, .chamfer .b3, .chamfer .b4, .chamfer .b5 {display:block; overflow:hidden; height:1px; background:#eca; border-left:1px solid #000; border-right:1px solid #000;}
+.chamfer .b1 {margin:0 5px; background:#000;}
+.chamfer .b2 {margin:0 4px;}
+.chamfer .b3 {margin:0 3px;}
+.chamfer .b4 {margin:0 2px;}
+.chamfer .b5 {margin:0 1px;}
+ 
+.chamfer .boxcontent {display:block; background:#eca; border-left:1px solid #000; border-right:1px solid #000;}
+

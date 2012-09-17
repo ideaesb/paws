@@ -1,0 +1,297 @@
+body 
+{
+  margin:0;
+  padding:0;
+  border:0;         /* This removes the border around the viewport in old versions of IE */
+  width:100%;
+  background:#fff;
+  min-width:600px; /* Minimum width of layout - remove line if not required */
+                   /* The min-width property does not work in old versions of Internet Explorer */
+  font-size:90%;
+}
+a 
+{
+  color:#369;
+}
+a:hover 
+{
+	color:#fff;
+	background:#369;
+	text-decoration:none;
+}
+h1, h2, h3 
+{
+	margin:.8em 0 .2em 0;
+	padding:0;
+}
+p 
+{
+  margin:.4em 0 .8em 0;
+  padding:0;
+}
+img 
+{
+	margin:10px 0 5px;
+}
+#ads img 
+{
+	display:block;
+	padding-top:10px;
+}
+/* Header styles */
+#header 
+{
+ clear:both;
+ float:left;
+ width:100%;
+}
+#header 
+{
+  /* border-bottom:1px solid #000; */
+}
+#header p,
+#header h1,
+#header h2 
+{
+	padding:.4em 15px 0 15px;
+	margin:0;
+}
+#header ul 
+{
+	clear:left;
+	float:left;
+	width:100%;
+	list-style:none;
+	margin:10px 0 0 0;
+	padding:0;
+}
+#header ul li 
+{
+	display:inline;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+#header ul li a 
+{
+	display:block;
+	float:left;
+	margin:0 0 0 1px;
+	padding:3px 10px;
+	text-align:center;
+	background:#eee;
+	color:#000;
+	text-decoration:none;
+	position:relative;
+	left:15px;
+	line-height:1.3em;
+}
+#header ul li a:hover {
+	background:#369;
+	color:#fff;
+}
+#header ul li a.active,
+#header ul li a.active:hover 
+{
+	color:#fff;
+	background:#000;
+	font-weight:bold;
+}
+#header ul li a span {
+	display:block;
+}
+/* 'widths' sub menu */
+#layoutdims {
+	clear:both;
+	background:#eee;
+	border-top:4px solid #000;
+	margin:0;
+	padding:6px 15px !important;
+	text-align:right;
+}
+/* column container */
+
+/* Footer styles */
+#footer {
+	clear:both;
+	float:left;
+	width:100%; /* added by cameron. matches the container width */
+	border-top:1px solid #000;
+}
+#footer p {
+	padding:10px;
+	margin:0;
+}
+.boxHeader {
+	font-size: 1.2em;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: #ffffff;
+	background-color: #2b6aa0;
+	padding: 6px;
+	text-align: left;
+}
+#browse-box {font-family:sans-serif;font-size:12px;width:400px;text-align:left;}  /*border:1px solid black   removed by cameron 7/5 */
+.title-blue{background:#2BA2C6; font-weight:bold;text-align:center;border:1px solid black;font-family:sans-serif;font-size:11px;white-space:nowrap;
+}
+.project-box {border:1px solid black;font-family:sans-serif;font-size:11px;width:720px;text-align:left}
+.first-blue{background:#6699CC; font-weight:bold;}
+#project-box td {vertical-align:middle;}
+/*Credits: Bulletproof Slants */
+/*URL: http://www.simplebits.com/bits/bulletproof_slants.html# */
+	#nav {
+		float: left;
+		width: 100%; 
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		background: #ccc;
+		border-bottom: 1px solid #999;
+		}
+	
+	#nav li { 
+		float: left;
+		margin: 0;
+		padding: 0;
+		}
+	
+	#nav a {
+		float: left;
+		display: block;
+		padding: 6px 30px 6px 5px;
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 90%;
+		color: #666;
+		background: #ccc url(../images/nav_slant.gif) no-repeat top right;
+		}
+	
+	#nav #nav-1 a {
+		color: #000;
+		}
+	
+	#nav a:hover {
+		color: #000;
+		}
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+    
+.animatedtabs{
+border-bottom: 1px solid gray;
+overflow: hidden;
+width: 100%;
+font-size: 14px; /*font of menu text*/
+}
+
+
+.animatedtabs ul{
+list-style-type: none;
+margin: 0;
+margin-left: 10px; /*offset of first tab relative to page left edge*/
+padding: 0;
+}
+
+.animatedtabs li{
+float: left;
+margin: 0;
+padding: 0;
+}
+
+.animatedtabs a{
+float: left;
+position: relative;
+top: 5px; /* 1) Number of pixels to protrude up for selected tab. Should equal (3) MINUS (2) below */
+background: url(../images/tab-blue-left.gif) no-repeat left top;
+margin: 0;
+margin-right: 3px; /*Spacing between each tab*/
+padding: 0 0 0 9px;
+text-decoration: none;
+
+}
+
+.animatedtabs a span{
+float: left;
+position: relative;
+display: block;
+background: url(../images/tab-blue-right.gif) no-repeat right top;
+padding: 5px 14px 3px 5px; /* 2) Padding within each tab. The 3rd value, or 3px, should equal (1) MINUS (3) */
+font-weight: bold;
+color: black;
+}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+.animatedtabs a span {float:none;}
+/* End IE5-Mac hack */
+
+
+.animatedtabs .selected a{
+background-position: 0 -125px;
+top: 0;
+}
+
+.animatedtabs .selected a span{
+background-position: 100% -125px;
+color: black;
+padding-bottom: 8px; /* 3) Bottom padding of selected tab. Should equal (1) PLUS (2) above */
+top: 0;
+}
+
+.animatedtabs a:hover{
+background-position: 0% -125px;
+top: 0;
+}
+
+.animatedtabs a:hover span{
+background-position: 100% -125px;
+padding-bottom: 8px; /* 3) Bottom padding of selected tab. Should equal (1) PLUS (2) above */
+top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+/*added by cameron */
+
+
+
+#container { 
+	width: 82em; 
+	height: 37em;
+	background: #FFFFFF;
+	/*margin: 10px auto; /* the auto margins (in conjunction with a width) center the page */
+}
+#container1 {
+	width: 25em; 
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+	float: left;
+	padding-left:10px;
+	padding-top:20px;
+} 
+#container3 {
+	width: 51em;  
+	height: 40em; /*27*/
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+	float: right; 
+	padding-top: 20px;
+} 
+#container2 {
+	width: 51em;  
+	height: 40em; /*25*/
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+	float: right; 
+	overflow:scroll; /*this is the code to make the container scrollable */	
+	border: 1px solid black;
+} 

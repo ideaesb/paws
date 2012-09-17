@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws
+END
+ListBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/ListBean.java
+END
+DataProducts.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/paws/!svn/ver/94/trunk/paws/src/org/noaaideacenter/paws/DataProducts.java
+END
+ClimateImpact.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/ClimateImpact.java
+END
+ListServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/ListServlet.java
+END
+Sector.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Sector.java
+END
+CodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/CodeGenerator.java
+END
+CapabilityArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/CapabilityArea.java
+END
+Agency.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/paws/!svn/ver/14/trunk/paws/src/org/noaaideacenter/paws/Agency.java
+END
+FocusArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/FocusArea.java
+END
+Products.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/paws/!svn/ver/63/trunk/paws/src/org/noaaideacenter/paws/Products.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Contact.java
+END
+DispatcherServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/DispatcherServlet.java
+END
+Atmospheric.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Atmospheric.java
+END
+WestPacific.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/WestPacific.java
+END
+Oceanic.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Oceanic.java
+END
+Guidance.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Guidance.java
+END
+Ecv.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/paws/!svn/ver/63/trunk/paws/src/org/noaaideacenter/paws/Ecv.java
+END
+DeleteProjectServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/DeleteProjectServlet.java
+END
+AddDataProductsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/paws/!svn/ver/98/trunk/paws/src/org/noaaideacenter/paws/AddDataProductsServlet.java
+END
+ServeBinaryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/ServeBinaryServlet.java
+END
+DBCPoolingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/DBCPoolingListener.java
+END
+CentralPacific.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/CentralPacific.java
+END
+Timeframes.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Timeframes.java
+END
+Assessments.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/paws/!svn/ver/84/trunk/paws/src/org/noaaideacenter/paws/Assessments.java
+END
+TextSearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/TextSearchServlet.java
+END
+Otherregions.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Otherregions.java
+END
+AddProjectServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/AddProjectServlet.java
+END
+ParameterDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/paws/!svn/ver/97/trunk/paws/src/org/noaaideacenter/paws/ParameterDAO.java
+END
+ProjectBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/paws/!svn/ver/99/trunk/paws/src/org/noaaideacenter/paws/ProjectBean.java
+END
+Variability.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Variability.java
+END
+AddContactServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/AddContactServlet.java
+END
+FacetSearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/FacetSearchServlet.java
+END
+UploadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/paws/!svn/ver/97/trunk/paws/src/org/noaaideacenter/paws/UploadServlet.java
+END
+NonPhysical.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/paws/!svn/ver/67/trunk/paws/src/org/noaaideacenter/paws/NonPhysical.java
+END
+Hawaii.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Hawaii.java
+END
+Applications.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Applications.java
+END
+AssessmentNameComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/paws/!svn/ver/48/trunk/paws/src/org/noaaideacenter/paws/AssessmentNameComparator.java
+END
+Assessment.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paws/!svn/ver/48/trunk/paws/src/org/noaaideacenter/paws/Assessment.java
+END
+DataPhysical.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/paws/!svn/ver/63/trunk/paws/src/org/noaaideacenter/paws/DataPhysical.java
+END
+Daps.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/paws/!svn/ver/64/trunk/paws/src/org/noaaideacenter/paws/Daps.java
+END
+AddAgencyServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/AddAgencyServlet.java
+END
+SouthPacific.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/SouthPacific.java
+END
+Projects.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/paws/!svn/ver/48/trunk/paws/src/org/noaaideacenter/paws/Projects.java
+END
+ProjectNameComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/paws/!svn/ver/48/trunk/paws/src/org/noaaideacenter/paws/ProjectNameComparator.java
+END
+Terrestrial.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/Terrestrial.java
+END
+UpdateProjectServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/paws/!svn/ver/8/trunk/paws/src/org/noaaideacenter/paws/UpdateProjectServlet.java
+END

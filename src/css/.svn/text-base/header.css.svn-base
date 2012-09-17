@@ -1,0 +1,68 @@
+#header 
+{ 
+  margin-bottom: 0px;
+}
+#header img {border: none;}
+#noaalogo
+{
+  margin-top: 3px;
+  margin-left: 0px;
+  width: 50%;
+  float: left;
+}
+#pacislogobufferLeft
+{
+  width: 0%;
+  float:left;
+}
+#pacislogo
+{
+  width: 20%;
+  float: left;
+}
+#pacislogobufferRight
+{
+  border-style:solid;
+  width: 20%
+  float:left;
+}
+#rightelements
+{
+  width: 30%;
+  float: left;
+}
+#projectName
+{
+  margin-top: 1em;
+  margin-left: 0px;
+  font-size:1.0em;
+  font-weight: bold;
+  color: red;
+  max-width: 300px;
+  float: left;
+}
+#underConstruction
+{
+  font-size:0.7em;
+  font-weight:lighter;
+  font-style:italic;
+  font-variant:small-caps;
+}
+#doclogo
+{
+  float: right;
+}
+#titleBar 
+{
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #2b6aa0;
+	padding: 6px;
+	text-align: left;
+	width: 97%;
+	float: left;
+	margin-left: 1%;
+	margin-right: 2%;
+	margin-top: 0.5em;
+}

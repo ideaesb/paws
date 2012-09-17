@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title> Stu Nicholls | CSSplay | Flexible equal height min max layout </title>
+
+<style type="text/css"> 
+body {font-size:76%; font-family:"trebuchet MS", verdana, arial, sans-serif; background:#f0f0f0;}
+ 
+#minMax {min-width:700px; max-width:1100px; margin:0 auto; background:#e0e0e0;}
+ 
+
+ 
+#outer2 {float:left; width:35%; background:#c0c0c0;}
+#outer3 {float:left; width:25%;}
+#outer4 {float:right; width:40%; background:#d0d0d0;}
+#outer2, #outer3, #outer4 {padding-bottom:32767px; margin-bottom:-32767px;}
+ 
+#wrapper {overflow:hidden;}
+ 
+ 
+ 
+h3 {font-size:18px; margin:0; padding:8px 0;}
+.content {padding:10px;}
+p {font-size:12px; line-height:1.5em; margin:0; padding:5px 0;}
+</style>
+ 
+ 
+</head>
+ 
+<body>
+	<div id="minMax">
+ 
+		<div id="wrapper">
+
+ 
+ 
+	
+			<div id="outer2">
+				<div class="content">
+		
+    <a href="http://www.noaa.gov" target="_blank">
+     <img alt="National Oceanic and Atmospheric Administration" title="NOAA" src="images/noaalogo.jpg" />
+    </a>				</div> <!-- end content -->
+			</div> <!-- end outer2 -->
+ 
+ 
+			<div id="outer3">
+				<div class="content">
+   <a href="http://www.noaaideacenter.org/" target="_blank">
+    <img alt="Pacific Climate Information System (PaCIS)" title="PaCIS" src="images/pacislogo.jpg"/>
+   </a>
+				</div> <!-- end content -->
+			</div> <!-- end outer2 -->
+ 
+			<div id="outer4">
+				<div class="content">
+		
+			   <div id="projectName" style="float:left;">
+    Projects &amp; Activities Database
+    <div id="underConstruction">
+     Under active construction, <a href="javascript:window.location.reload()">press F5</a><br />to refresh and see latest.
+    </div>
+   </div>
+   
+      <div id="doclogo" style="float: left;">
+    <a href="http://www.doc.gov" target="_blank">
+     <img alt="Department of Commerce" title="DOC" src="images/commerce.png" />
+    </a>
+   </div>
+   
+				</div> <!-- end content -->
+			</div> <!-- end outer2 -->
+ 
+ 
+		</div><!-- end #wrapper -->
+	</div> <!-- end min Max -->
+</body>
+</html>
+
